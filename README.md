@@ -107,7 +107,7 @@ ex) AES, IDEA, SHARK, ARIA
 
 각 블록에 대해 어떤 방식으로 암호화를 수행하느냐에 따라 여러 운영모드로 나뉜다 <br />
 
-- Electroinc Codebook (ECB) <br />
+- Electronic Codebook (ECB) <br />
 - Cipher Block Chaining (CBC) <br />
 - Output Feedback (OFB) <br />
 - Cipher Feedback (CFB) <br />
